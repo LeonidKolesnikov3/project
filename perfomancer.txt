@@ -1,0 +1,8 @@
+DAWG-Python==0.7.2
+docopt==0.6.2    
+pygame==2.1.2    
+pygame-gui==0.6.8
+pymorphy2==0.9.1 
+pymorphy2-dicts==2.4.393442.3710985
+pymorphy2-dicts-ru==2.4.417127.4579844
+python-i18n==0.3.9
